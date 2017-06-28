@@ -336,7 +336,7 @@
           },
           "title": "Weekly Special",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Box with Gerbras<br></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">$35.00</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Weekly+special&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Add to Cart</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35.00&amp;item_name=Weekly+special&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(250, 197, 28);\"></span>Buy Now</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Weekly+special&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Add to Cart</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=35.00&amp;item_name=Weekly+special&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(250, 197, 28);\"></span>Buy Now</a> "
         },
         {
           "_tags": [
@@ -393,9 +393,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "$45.00",
+          "title1": "<span style=\"font-size: 1.25rem; line-height: 1.2825;\">Box of 3 red Gerbras<br></span><br><span style=\"font-size: 1.25rem; line-height: 1.2825;\">$45.00</span><br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites<br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a>&nbsp; &nbsp;&nbsp;</b><a href=\"checkout.html\" style=\"font-weight: bold;\">&nbsp;</a><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1.0&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b>",
+          "caption1": "<p>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites<br><br><b>&nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45.00&amp;item_name=Box+of+Fowers&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a> &nbsp;&nbsp;</b><a href=\"checkout.html\" style=\"font-weight: bold;\">&nbsp;</a><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=Box+of+flowers&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b></p>",
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
@@ -409,9 +409,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "$29.95",
+          "title2": "Box of 3 orange Gerbras<br><br>$29.95",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=Add+to+Cart&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a> &nbsp; </b>&nbsp; <a href=\"checkout.html\">&nbsp;</a><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br><br>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=29.95&amp;item_name=Box+of+flowers&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a> &nbsp; </b>&nbsp; <a href=\"checkout.html\">&nbsp;</a><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=29.95&amp;item_name=Box+of+flowers&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br><br>",
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
@@ -425,9 +425,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "$45.00",
+          "title3": "Box of 3 Red Roses<br><br>$45.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p>of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45.00&amp;item_name=Add+to+Cart&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b><b><a href=\"shopping cart.html\" class=\"text-danger\"></a></b> &nbsp;<b> &nbsp;&nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=40.00&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a><a href=\"shopping cart.html\" class=\"text-danger\"></a></b></p>",
+          "caption3": "<p>of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45.00&amp;item_name=Box+of+flowers&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b><b><a href=\"shopping cart.html\" class=\"text-danger\"></a></b> &nbsp;<b> &nbsp;&nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=45.00&amp;item_name=Box+of+flowers&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a><a href=\"shopping cart.html\" class=\"text-danger\"></a></b></p>",
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
@@ -441,9 +441,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "$29.95",
+          "title4": "Box with 3 red Roses&nbsp;<br><br>$29.95",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a><a href=\"shopping cart.html\" class=\"text-danger\"></a> </b>&nbsp; &nbsp;<b> <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br></p>",
+          "caption4": "<p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=Box+with+3+red+roses&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a><a href=\"shopping cart.html\" class=\"text-danger\"></a> </b>&nbsp; &nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=29.95&amp;item_name=Box+with+3+red+roses&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a><b></b><br></p>",
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
@@ -457,9 +457,9 @@
               "linkInNewWindow": false
             }
           },
-          "title5": "$24.00",
+          "title5": "Box with mixed flowers<br><br>$24.00",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart%C2%A0&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart%C2%A0&amp;currency_code=AUD\">&nbsp;</a> &nbsp; &nbsp;&nbsp;<b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br>",
+          "caption5": "<p>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.00&amp;item_name=Box+with+mixed+flowers%C2%A0&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart%C2%A0&amp;currency_code=AUD\" class=\"text-danger\"></a></b> &nbsp; &nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=24.00&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a><b></b><br></p>",
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
@@ -473,9 +473,9 @@
               "linkInNewWindow": false
             }
           },
-          "title6": "$50.00",
+          "title6": "Box of mixed flowers<br><br>$50.00",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "<p>&nbsp;drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service&nbsp;<br><br><br> <b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Add+to+Cart&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b> &nbsp;<b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br></p>",
+          "caption6": "<p>&nbsp;drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service&nbsp;<br><br><br> <b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=50.00&amp;item_name=Box+of+mixed+flowers&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b> &nbsp;<b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=50.00&amp;item_name=Box+of+mixed+flowers&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a></b><br></p>",
           "button6": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>"
         },
         {

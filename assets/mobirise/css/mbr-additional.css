@@ -510,21 +510,38 @@ h6,
 #buttons1-t8 .btn {
   font-size: 22px;
 }
-#features3-oh H4 {
+#facebook-comments-block-fw B {
   color: #000000;
 }
-#features3-oh B {
-  color: #b8312f;
+#facebook-comments-block-fw UL {
+  color: #000000;
 }
-#features3-oh .btn {
+#footer1-2 P {
+  color: #ffffff;
+}
+#features3-tb H4 {
+  color: #000000;
+}
+#features3-tb B {
+  color: #5f00f7;
+}
+#features3-tb .btn {
   font-size: 10px;
 }
-#features3-oh P {
+#features3-tb P {
   font-size: 18px;
-  color: #5105ff;
 }
-#features3-oh SPAN {
-  text-align: right;
+#features3-ta H4 {
+  color: #000000;
+}
+#features3-ta B {
+  color: #5f00f7;
+}
+#features3-ta .btn {
+  font-size: 10px;
+}
+#features3-ta P {
+  font-size: 18px;
 }
 #header3-t6 .mbr-section-title,
 #header3-t6 .mbr-section-subtitle {
@@ -538,18 +555,6 @@ h6,
 }
 #buttons1-t1 .btn {
   font-size: 22px;
-}
-#facebook-comments-block-fw B {
-  color: #000000;
-}
-#facebook-comments-block-fw UL {
-  color: #000000;
-}
-#footer1-2 P {
-  color: #ffffff;
-}
-#features3-t7 H4 {
-  color: #000000;
 }
 #contacts2-kd STRONG {
   color: #fac51c;

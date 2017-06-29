@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1054,
+    "uniqCompNum": 1056,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -356,8 +356,8 @@
           "_name": "header3",
           "_anchor": "header3-t9",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#b178f1",
             "showMeta": true
           },
@@ -376,195 +376,8 @@
           },
           "_anchor": "buttons1-t8",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout Page</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#b8312f"
-            },
-            ".btn": {
-              "font-size": "10px"
-            },
-            "P": {
-              "font-size": "18px",
-              "color": "#5105ff"
-            },
-            "SPAN": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-oh",
-          "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#eee6f9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cicle6-600x777.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "<span style=\"font-size: 1.25rem; line-height: 1.2825;\">Box of 3 red Gerbras<br></span><br><span style=\"font-size: 1.25rem; line-height: 1.2825;\">$45.00</span><br>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<p>Bootstrap 4 has been noted as&nbsp;</p>",
-          "button1": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45&amp;item_name=box+of+three+red+gerbras&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> ",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Box of 3 orange Gerbras<br><br>$29.95",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<span style=\"line-height: 1.5;\">One of Bootstrap 4's big points</span><br><br>",
-          "button2": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=box+of+gerbrast&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> ",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Box of 3 Red Roses<br><br>$45.00",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<p>of fonts compiled into its web&nbsp;</p>",
-          "button3": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45&amp;item_name=box+of+roses&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> ",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Box with 3 red Roses&nbsp;<br><br>$29.95",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<p>Mobirise gives you the&nbsp;</p>",
-          "button4": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=29.95&amp;item_name=3+red+roses&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>  ",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Box with mixed flowers<br><br>$24.00",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "<p>Choose from the large&nbsp;<br></p>",
-          "button5": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24&amp;item_name=Box+mixed+flowers&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> ",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title6": "Box of mixed flowers<br><br>$50.00",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "<p>&nbsp;drive, FTP or host on Amazon&nbsp;<br></p>",
-          "button6": " <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=50&amp;item_name=Box+of+mixed+flowes&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-t6",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b178f1",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "<b>Click on add to cart for selections and then click on checkout to proceed to delivery address and checkout page</b>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-t1",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#b178f1"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout Page</a>   "
@@ -632,12 +445,21 @@
           "_styles": {
             "H4": {
               "color": "#000000"
+            },
+            "B": {
+              "color": "#5f00f7"
+            },
+            ".btn": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "18px"
             }
           },
-          "_anchor": "features3-t7",
+          "_anchor": "features3-tb",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -655,80 +477,287 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cicle6-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4<br>$45",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites<br><br><b>Add to Cart&nbsp; &nbsp;&nbsp;</b><a href=\"checkout.html\" style=\"font-weight: bold;\">&nbsp;</a><b><a href=\"checkout.html\" class=\"text-success\">Checkout</a></b>",
+          "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive<br>$25.95",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br><b>Add to Cart &nbsp; </b>&nbsp; <a href=\"checkout.html\">&nbsp;</a><b><a href=\"checkout.html\" class=\"text-success\">Checkout&nbsp;</a></b><br><br>",
+          "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts<br>$60",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<p>of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=60&amp;item_name=website+fonts&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b>&nbsp; &nbsp;<b>&nbsp; &nbsp;<a href=\"checkout.html\" class=\"text-success\">Checkout</a></b></p>",
+          "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites<br>$35.70",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35.70&amp;item_name=unlimited+sites&amp;currency_code=AUD\" class=\"text-danger\"><b>Add to Cart</b></a><b><a href=\"shopping cart.html\" class=\"text-danger\"></a></b>&nbsp; &nbsp;<b> <a href=\"checkout.html\" class=\"text-success\">Buy Now</a></b><br></p>",
+          "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks<br>$53.55",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=53.55&amp;item_name=trendy+website+blocks&amp;currency_code=AUD\" class=\"text-danger\">Add to Cart</a></b>&nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"checkout.html\" class=\"text-success\">Buy Now</a></b><br>",
+          "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere<br>$65.99",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "&nbsp;drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service&nbsp;<br><br><br><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=65.99&amp;item_name=host+anywhere&amp;currency_code=USD\" class=\"text-danger\">Add to Cart</a><a href=\"shopping cart.html\"> </a></b>&nbsp; &nbsp; <b><a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b><br>",
+          "button6": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#5f00f7"
+            },
+            ".btn": {
+              "font-size": "10px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features3-ta",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eee6f9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cicle6-1-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites&nbsp;",
-          "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites<br><br><b><a href=\"shopping cart.html\" class=\"text-danger\">Add to Cart</a>&nbsp; &nbsp;&nbsp;</b><a href=\"checkout.html\" style=\"font-weight: bold;\">&nbsp;</a><b><a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b>",
+          "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br><b><a href=\"checkout.html\" class=\"text-danger\">Add to Cart &nbsp;</a> </b>&nbsp; <a href=\"checkout.html\">&nbsp;</a><b><a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b><br><br>",
+          "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use the",
-          "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>",
+          "caption3": "<p>of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website<br><br><br><b><a href=\"shopping cart.html\" class=\"text-danger\">Add to Cart</a></b>&nbsp; &nbsp;<b> &nbsp;&nbsp;<a href=\"checkout.html\" class=\"text-danger\">Buy Now</a><a href=\"shopping cart.html\" class=\"text-danger\"></a></b></p>",
+          "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>",
+          "caption4": "<p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br><br><b><a href=\"shopping cart.html\" class=\"text-danger\">Add to Cart</a><a href=\"shopping cart.html\" class=\"text-danger\"></a> </b>&nbsp; &nbsp;<b> <a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b><br></p>",
+          "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;",
-          "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br><br><b><a href=\"shopping cart.html\" class=\"text-danger\">Add to Cart</a></b>&nbsp; &nbsp; &nbsp;&nbsp;<b><a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b><br>",
+          "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-1.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just&nbsp;",
-          "button6": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a>"
+          "caption6": "&nbsp;drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service&nbsp;<br><br><br><b><a href=\"shopping cart.html\" class=\"text-danger\">Add to Cart</a><a href=\"shopping cart.html\"> </a></b>&nbsp; &nbsp; <b><a href=\"checkout.html\" class=\"text-danger\">Buy Now</a></b><br>",
+          "button6": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t6",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b178f1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on add to cart for selections and then click on checkout to proceed to delivery address and checkout page</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "buttons1-t1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#b178f1"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout Page</a>   "
         },
         {
           "_tags": [
@@ -1982,7 +2011,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1998,7 +2027,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2014,7 +2043,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2030,7 +2059,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2046,7 +2075,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2121,7 +2150,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2137,7 +2166,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2153,7 +2182,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2169,7 +2198,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2185,7 +2214,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2532,7 +2561,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2548,7 +2577,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2564,7 +2593,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2580,7 +2609,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2596,7 +2625,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2671,7 +2700,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2687,7 +2716,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2703,7 +2732,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2719,7 +2748,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2735,7 +2764,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3082,7 +3111,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3098,7 +3127,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3114,7 +3143,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3130,7 +3159,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3146,7 +3175,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3221,7 +3250,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3237,7 +3266,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3253,7 +3282,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3269,7 +3298,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3285,7 +3314,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3629,7 +3658,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3645,7 +3674,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3661,7 +3690,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3677,7 +3706,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3693,7 +3722,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3768,7 +3797,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3784,7 +3813,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3800,7 +3829,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3816,7 +3845,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3832,7 +3861,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4179,7 +4208,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4195,7 +4224,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4211,7 +4240,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4227,7 +4256,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4243,7 +4272,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4318,7 +4347,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4334,7 +4363,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4350,7 +4379,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4366,7 +4395,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4382,7 +4411,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4729,7 +4758,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4745,7 +4774,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4761,7 +4790,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4777,7 +4806,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4793,7 +4822,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4868,7 +4897,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4884,7 +4913,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4900,7 +4929,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4916,7 +4945,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4932,7 +4961,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5276,7 +5305,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5292,7 +5321,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5308,7 +5337,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5324,7 +5353,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5340,7 +5369,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5415,7 +5444,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5431,7 +5460,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5447,7 +5476,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5463,7 +5492,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5479,7 +5508,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6293,7 +6322,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6309,7 +6338,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6325,7 +6354,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6341,7 +6370,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6357,7 +6386,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6432,7 +6461,7 @@
           "button1": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 197, 28);\"></span>Buy Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle1-1-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6448,7 +6477,7 @@
           "button2": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Add to Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6464,7 +6493,7 @@
           "button3": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle3-1-137.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle3-1-17.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6480,7 +6509,7 @@
           "button4": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-138.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle4-1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6496,7 +6525,7 @@
           "button5": " <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Shopping Cart</a> <a data-app-btn=\"true\" href=\"shopping cart.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(247, 218, 100);\"></span>Buy Now</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle5-1-139.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle5-1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

@@ -497,6 +497,19 @@ h6,
 #header3-h0 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-t9 .mbr-section-title,
+#header3-t9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t9 SMALL {
+  color: #000000;
+}
+#header3-t9 B {
+  color: #ffffff;
+}
+#buttons1-t8 .btn {
+  font-size: 22px;
+}
 #features3-oh H4 {
   color: #000000;
 }
@@ -535,18 +548,8 @@ h6,
 #footer1-2 P {
   color: #ffffff;
 }
-#features3-q0 H4 {
+#features3-t7 H4 {
   color: #000000;
-}
-#features3-q0 B {
-  color: #ff0c00;
-}
-#features3-q0 .btn {
-  font-size: 10px;
-}
-#features3-q0 P {
-  font-size: 18px;
-  color: #232323;
 }
 #contacts2-kd STRONG {
   color: #fac51c;

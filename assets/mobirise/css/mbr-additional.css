@@ -508,7 +508,10 @@ h6,
 }
 #features3-oh P {
   font-size: 18px;
-  color: #000000;
+  color: #5105ff;
+}
+#buttons1-t1 .btn {
+  font-size: 22px;
 }
 #facebook-comments-block-fw B {
   color: #000000;

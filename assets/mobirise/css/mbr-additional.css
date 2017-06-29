@@ -510,6 +510,19 @@ h6,
   font-size: 18px;
   color: #5105ff;
 }
+#features3-oh SPAN {
+  text-align: right;
+}
+#header3-t6 .mbr-section-title,
+#header3-t6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t6 SMALL {
+  color: #000000;
+}
+#header3-t6 B {
+  color: #ffffff;
+}
 #buttons1-t1 .btn {
   font-size: 22px;
 }
@@ -2299,6 +2312,12 @@ h6,
 #header3-t4 .mbr-section-title,
 #header3-t4 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-t4 SMALL {
+  color: #000000;
+}
+#header3-t4 B {
+  color: #ffffff;
 }
 #features7-t2 .card-subtitle {
   color: #000000;

@@ -497,19 +497,6 @@ h6,
 #header3-h0 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-t9 .mbr-section-title,
-#header3-t9 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t9 SMALL {
-  color: #000000;
-}
-#header3-t9 B {
-  color: #ffffff;
-}
-#buttons1-t8 .btn {
-  font-size: 22px;
-}
 #facebook-comments-block-fw B {
   color: #000000;
 }
@@ -531,6 +518,19 @@ h6,
 #features3-tb P {
   font-size: 18px;
 }
+#header3-t9 .mbr-section-title,
+#header3-t9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t9 SMALL {
+  color: #000000;
+}
+#header3-t9 B {
+  color: #ffffff;
+}
+#buttons1-t8 .btn {
+  font-size: 22px;
+}
 #features3-ta H4 {
   color: #000000;
 }
@@ -542,19 +542,6 @@ h6,
 }
 #features3-ta P {
   font-size: 18px;
-}
-#header3-t6 .mbr-section-title,
-#header3-t6 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t6 SMALL {
-  color: #000000;
-}
-#header3-t6 B {
-  color: #ffffff;
-}
-#buttons1-t1 .btn {
-  font-size: 22px;
 }
 #contacts2-kd STRONG {
   color: #fac51c;

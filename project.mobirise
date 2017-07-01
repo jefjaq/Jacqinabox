@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1066,
+    "uniqCompNum": 1069,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7135,8 +7135,170 @@
             "bgColor": "#eee6f9",
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">Fill out the form with your Name, Email, Tel.No and the delivery address for the flowers.<br>Then click on the Contact us icon.<br>Finish your purchase by clicking on the Buy Now icon under your Postal Code and then the Paypal Shopping Cart</span>",
+          "title": "<span style=\"font-weight: normal;\">Fill out the form with your Name, Email, Tel.No and the delivery address for the flowers.<br>Then click on the Contact us icon.<br>Finish your purchase by clicking on the Buy Now icon on your Delivery Zone and then the Paypal Shopping Cart</span>",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "form1-sn",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eee6f9",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Contact",
+          "subtitle": "",
+          "form": {
+            "action": "jefjaq@outlook.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Delivery Address"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-price-desc B": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "30px",
+              "color": "#000000"
+            },
+            ".mbr-plan-price-desc": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".mbr-plan-label": {
+              "font-size": "24px",
+              "color": "#b8312f"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-to",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eee6f9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "hidden"
+          },
+          "title": "<br>Delivery Zones",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "label1": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
+          "title1": "Zone 1<br>Postal Codes",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "9.95",
+          "period1": "",
+          "description1": "<b>5169<br>5170<br>5171<br>5172<br>5173<br>5174</b><br><b><br></b><br>",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "label2": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
+          "title2": "Zone 2<br>Postal Codes",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "18.50",
+          "period2": "",
+          "description2": "<b>5163<br>5164<br>5165<br>5166<br>5167<br>5168</b><br><b><br></b><b><br></b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=USD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "label3": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
+          "title3": "Zone 3<br>Postal Codes",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "24.95",
+          "period3": "",
+          "description3": "<b>5157<br>5160<br>6162<br>5203<br>5204<br>5211<br>Flinders Medical Centre.  Public and Private</b><br>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Buy+Now&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
           "_styles": {
@@ -7168,13 +7330,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d2bdef"
+              "background": "#964aec"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e6daf6!important"
+              "background": "#a96af0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#eee6f9"
+              "background": "#b178f1"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -7233,244 +7395,6 @@
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br><br></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"birthday.html\" aria-expanded=\"false\" style=\"display: inline !important;\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 4, 0);\"></span>&nbsp; &nbsp;Products</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Flowers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birthday.html\">Birthday</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anniversary.html\">Anniversary</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"new baby.html\">New Baby</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mothers day.html\">Mothers Day</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"congratulations.html\">Congratulations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"get well.html\">Get Well</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thinking of you.html\">Thinking of You</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thank you.html\">Thank You</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sympathy.html\">Sympathy</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"delivery Area.html\" aria-expanded=\"false\" style=\"display: inline !important;\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(250, 4, 0);\"></span>&nbsp;Delivery Area&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=%3Cspan+class%3D%22mbri-shopping-cart+mbr-iconfont+mbr-iconfont-btn%22+style%3D%22font-size%3A+30px%3B+color%3A+rgb(2%2C+121%2C+252)%3B%22%3E%3C%2Fspan%3E%26nbsp%3B+Shopping+Cart&amp;currency_code=AUD\" aria-expanded=\"false\" style=\"display: inline !important;\"><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1.0&amp;item_name=%3Cspan+class%3D%22mbri-cart-full+mbr-iconfont+mbr-iconfont-btn%22+style%3D%22font-size%3A+30px%3B+color%3A+rgb(4%2C+120%2C+249)%3B%22%3E%3C%2Fspan%3E%26nbsp%3BCheckout%26nbsp%3B&amp;currency_code=AUD\" aria-expanded=\"false\" style=\"display: inline !important;\"><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"petals.html\"><span class=\"socicon socicon-icq mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(184, 49, 47);\"></span>&nbsp;Petals</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(250, 20, 8);\"></span>Home &nbsp;</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "form1-sn",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#eee6f9",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "Checkout",
-          "subtitle": "",
-          "form": {
-            "action": "jefjaq@outlook.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Delivery Address"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000",
-              "font-size": "20px"
-            },
-            "B": {
-              "color": "#000000",
-              "font-size": "20px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-t4",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b178f1",
-            "showMeta": true
-          },
-          "title": "Delivery Zones",
-          "meta": "Click on the Buy Now under your postal code zone.<br> Finalise your purchase by clicking on the Paypal Shopping Cart Icon"
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-size": "14px"
-            },
-            "H4": {
-              "font-size": "24px"
-            },
-            ".btn": {
-              "font-size": "24px"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-t2",
-          "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#eee6f9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title1": "Zone 1: $9.95<br>",
-          "subtitle1": "<b>5169<br>5170<br>5171<br>5172<br>5173<br>5174</b><br><b><br></b>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title2": "Zone 2: $18.50<br>",
-          "subtitle2": "<b>5163<br>5164<br>5165<br>5166<br>5167<br>5168</b><br><br>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff"
-            }
-          },
-          "title3": "Zone 3: $24.95<br>",
-          "subtitle3": "<b>5157<br>5160<br>6162<br>5203<br>5204<br>5211<br>Flinders Medical Centre&nbsp;Public and Private</b>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }

@@ -2217,8 +2217,6 @@ h6,
 }
 
 
-
-
 #header3-sy .mbr-section-title,
 #header3-sy .mbr-section-subtitle {
   text-align: center;
@@ -2232,6 +2230,48 @@ h6,
   font-family: 'Lora', serif;
 }
 #header3-tl SPAN {
+  color: #000000;
+}
+#form1-sn .form-control-label {
+  color: #232323;
+}
+#form1-sn SMALL {
+  color: #000000;
+}
+#pricing-table2-to .mbr-plan-header,
+#pricing-table2-to .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-to ul,
+#pricing-table2-to .mbr-plan-title,
+#pricing-table2-to .mbr-price-value,
+#pricing-table2-to .mbr-price-figure,
+#pricing-table2-to .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-to .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-to .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-to .mbr-plan-price-desc B {
+  color: #000000;
+  font-size: 20px;
+}
+#pricing-table2-to .mbr-plan-title {
+  font-size: 30px;
+  color: #000000;
+}
+#pricing-table2-to .mbr-plan-price-desc {
+  font-size: 20px;
+  color: #000000;
+}
+#pricing-table2-to .mbr-plan-label {
+  font-size: 24px;
+  color: #b8312f;
+}
+#pricing-table2-to UL {
   color: #000000;
 }
 #menu-sl .hide-buttons .nav-btn {
@@ -2268,19 +2308,19 @@ h6,
 }
 #menu-sl .link[aria-expanded="true"],
 #menu-sl .dropdown-menu {
-  background: #d2bdef;
+  background: #964aec;
 }
 #menu-sl .nav-dropdown-sm .link:focus,
 #menu-sl .nav-dropdown-sm .link:hover,
 #menu-sl .nav-dropdown-sm .dropdown-item:focus,
 #menu-sl .nav-dropdown-sm .dropdown-item:hover {
-  background: #e6daf6!important;
+  background: #a96af0!important;
 }
 #menu-sl .navbar,
 #menu-sl .nav-dropdown-sm,
 #menu-sl .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-sl .nav-dropdown-sm .dropdown-menu {
-  background: #eee6f9;
+  background: #b178f1;
 }
 #menu-sl .bg-color.transparent .link {
   color: #000000;
@@ -2299,44 +2339,4 @@ h6,
 }
 #menu-sl .btn {
   font-size: 16px;
-}
-#form1-sn .form-control-label {
-  color: #232323;
-}
-#form1-sn SMALL {
-  color: #000000;
-}
-#header3-t4 .mbr-section-title,
-#header3-t4 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t4 SMALL {
-  color: #000000;
-  font-size: 20px;
-}
-#header3-t4 B {
-  color: #000000;
-  font-size: 20px;
-  font-family: 'Lora', serif;
-}
-#features7-t2 .card-subtitle {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
-#features7-t2 .iconbox {
-  background-color: #7500f9;
-  border-color: #7500f9;
-}
-#features7-t2 P {
-  text-align: center;
-}
-#features7-t2 SPAN {
-  font-size: 14px;
-}
-#features7-t2 H4 {
-  font-size: 24px;
-}
-#features7-t2 .btn {
-  font-size: 24px;
 }

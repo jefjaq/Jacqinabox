@@ -497,6 +497,32 @@ h6,
 #header3-h0 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-tk .mbr-section-title,
+#header3-tk .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-tk SMALL {
+  color: #000000;
+}
+#header3-tk B {
+  color: #000000;
+  font-size: 20px;
+}
+#features3-th H4 {
+  color: #000000;
+}
+#features3-th B {
+  color: #5f00f7;
+}
+#features3-th .btn {
+  font-size: 10px;
+}
+#features3-th P {
+  font-size: 18px;
+}
+#buttons1-tj .btn {
+  font-size: 22px;
+}
 #facebook-comments-block-fw B {
   color: #000000;
 }
@@ -505,43 +531,6 @@ h6,
 }
 #footer1-2 P {
   color: #ffffff;
-}
-#features3-tb H4 {
-  color: #000000;
-}
-#features3-tb B {
-  color: #5f00f7;
-}
-#features3-tb .btn {
-  font-size: 10px;
-}
-#features3-tb P {
-  font-size: 18px;
-}
-#header3-t9 .mbr-section-title,
-#header3-t9 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t9 SMALL {
-  color: #000000;
-}
-#header3-t9 B {
-  color: #ffffff;
-}
-#buttons1-t8 .btn {
-  font-size: 22px;
-}
-#features3-ta H4 {
-  color: #000000;
-}
-#features3-ta B {
-  color: #5f00f7;
-}
-#features3-ta .btn {
-  font-size: 10px;
-}
-#features3-ta P {
-  font-size: 18px;
 }
 #contacts2-kd STRONG {
   color: #fac51c;
@@ -710,11 +699,11 @@ h6,
   color: #000000;
 }
 #menu-ec .link {
-  font-size: 0.95rem;
+  font-size: 1rem;
 }
 #menu-ec .dropdown-item,
 #menu-ec .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.083rem;
 }
 #menu-ec .link:hover,
 #menu-ec .dropdown-item:hover,
@@ -2330,5 +2319,8 @@ h6,
   font-size: 14px;
 }
 #features7-t2 H4 {
+  font-size: 24px;
+}
+#features7-t2 .btn {
   font-size: 24px;
 }

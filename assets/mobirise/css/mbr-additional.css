@@ -2217,6 +2217,7 @@ h6,
 }
 
 
+
 #header3-sy .mbr-section-title,
 #header3-sy .mbr-section-subtitle {
   text-align: center;
@@ -2308,8 +2309,9 @@ h6,
   color: #000000;
 }
 #header3-t4 B {
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 #features7-t2 .card-subtitle {
   color: #000000;

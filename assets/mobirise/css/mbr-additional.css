@@ -449,19 +449,19 @@ h6,
 }
 #menu-lu .link[aria-expanded="true"],
 #menu-lu .dropdown-menu {
-  background: #d2bdef;
+  background: #8f2625;
 }
 #menu-lu .nav-dropdown-sm .link:focus,
 #menu-lu .nav-dropdown-sm .link:hover,
 #menu-lu .nav-dropdown-sm .dropdown-item:focus,
 #menu-lu .nav-dropdown-sm .dropdown-item:hover {
-  background: #e6daf6!important;
+  background: #ac2e2c!important;
 }
 #menu-lu .navbar,
 #menu-lu .nav-dropdown-sm,
 #menu-lu .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-lu .nav-dropdown-sm .dropdown-menu {
-  background: #eee6f9;
+  background: #b8312f;
 }
 #menu-lu .bg-color.transparent .link {
   color: #000000;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1065,
+    "uniqCompNum": 1066,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7112,6 +7112,29 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-tl",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Fill out the form with your Name, Email, Tel.No and the delivery address for the flowers.<br>Then click on the Contact us icon.<br>Finish your purchase by clicking on the Buy Now icon",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -7275,7 +7298,8 @@
               "color": "#000000"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -7290,7 +7314,7 @@
             "showMeta": true
           },
           "title": "Delivery Zones",
-          "meta": "Click on the red Zone&nbsp;"
+          "meta": "<b>Click on the Buy Now to Finalise your purchase</b>"
         },
         {
           "_inherit": "features4",
@@ -7361,7 +7385,7 @@
           "title1": "Zone 1: $9.95<br>",
           "subtitle1": "<b>5169<br>5170<br>5171<br>5172<br>5173<br>5174</b><br><b><br></b>",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -7377,7 +7401,7 @@
           "title2": "Zone 2: $18.50<br>",
           "subtitle2": "<b>5163<br>5164<br>5165<br>5166<br>5167<br>5168</b><br><br>",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -7393,7 +7417,7 @@
           "title3": "Zone 3: $24.95<br>",
           "subtitle3": "<b>5157<br>5160<br>6162<br>5203<br>5204<br>5211<br>Flinders Medical Centre&nbsp;Public and Private</b>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Checkout&amp;currency_code=AUD\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "media4": {
             "iconFont": {
               "active": true,

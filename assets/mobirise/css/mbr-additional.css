@@ -2221,6 +2221,13 @@ h6,
 #header3-sy .mbr-section-subtitle {
   text-align: center;
 }
+#header3-tl .mbr-section-title,
+#header3-tl .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-tl H3 {
+  font-size: 20px;
+}
 #menu-sl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2302,6 +2309,7 @@ h6,
 }
 #header3-t4 B {
   color: #ffffff;
+  font-size: 20px;
 }
 #features7-t2 .card-subtitle {
   color: #000000;

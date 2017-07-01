@@ -2230,13 +2230,16 @@ h6,
   font-family: 'Lora', serif;
 }
 #header3-tl SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #form1-sn .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-sn SMALL {
   color: #000000;
+}
+#form1-sn .mbr-section-title {
+  color: #ffffff;
 }
 #pricing-table2-to .mbr-plan-header,
 #pricing-table2-to .mbr-plan-body {
@@ -2273,6 +2276,9 @@ h6,
 }
 #pricing-table2-to UL {
   color: #000000;
+}
+#pricing-table2-to .mbr-section__container .mbr-section-title {
+  color: #ffffff;
 }
 #menu-sl .hide-buttons .nav-btn {
   display: none !important;

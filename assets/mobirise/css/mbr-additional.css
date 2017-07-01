@@ -2218,6 +2218,7 @@ h6,
 
 
 
+
 #header3-sy .mbr-section-title,
 #header3-sy .mbr-section-subtitle {
   text-align: center;
@@ -2228,6 +2229,10 @@ h6,
 }
 #header3-tl H3 {
   font-size: 20px;
+  font-family: 'Lora', serif;
+}
+#header3-tl SPAN {
+  color: #000000;
 }
 #menu-sl .hide-buttons .nav-btn {
   display: none !important;
@@ -2307,11 +2312,12 @@ h6,
 }
 #header3-t4 SMALL {
   color: #000000;
+  font-size: 20px;
 }
 #header3-t4 B {
   color: #000000;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 #features7-t2 .card-subtitle {
   color: #000000;

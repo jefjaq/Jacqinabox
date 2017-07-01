@@ -497,6 +497,9 @@ h6,
 #header3-h0 .mbr-section-subtitle {
   text-align: center;
 }
+#buttons1-tj .btn {
+  font-size: 22px;
+}
 #header3-tk .mbr-section-title,
 #header3-tk .mbr-section-subtitle {
   text-align: center;
@@ -519,9 +522,6 @@ h6,
 }
 #features3-th P {
   font-size: 18px;
-}
-#buttons1-tj .btn {
-  font-size: 22px;
 }
 #facebook-comments-block-fw B {
   color: #000000;

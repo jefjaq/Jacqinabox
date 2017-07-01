@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "checkout.html",
+    "currentPage": "index.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -34,7 +34,7 @@
       "iconSize": "87",
       "iconColor": "#fac51c",
       "backColor": "#6307f5",
-      "topOffset": "75",
+      "topOffset": "95",
       "rightOffset": "0",
       "siteWidth": "1150",
       "counterSize": "20",

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sympathy.html",
+    "currentPage": "index.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1189,
+    "uniqCompNum": 1190,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8064,34 +8064,67 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"birthday.html\" aria-expanded=\"false\" style=\"display: inline !important;\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>&nbsp; &nbsp;Products</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Flowers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"birthday.html\">Birthday</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anniversary.html\">Anniversary</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"new baby.html\">New Baby</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mothers day.html\">Mothers Day</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"congratulations.html\">Congratulations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"get well.html\">Get Well</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thinking of you.html\">Thinking of You</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thank you.html\">Thank You</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sympathy.html\">Sympathy</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"delivery Area.html\" aria-expanded=\"false\" style=\"display: inline !important;\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(255, 194, 0);\"></span>&nbsp;Delivery Area&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=%3Cspan+class%3D%22mbri-shopping-cart+mbr-iconfont+mbr-iconfont-btn%22+style%3D%22font-size%3A+30px%3B+color%3A+rgb(2%2C+121%2C+252)%3B%22%3E%3C%2Fspan%3E%26nbsp%3B+Shopping+Cart&amp;currency_code=AUD\" aria-expanded=\"false\" style=\"display: inline !important;\"><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1.0&amp;item_name=%3Cspan+class%3D%22mbri-cart-full+mbr-iconfont+mbr-iconfont-btn%22+style%3D%22font-size%3A+30px%3B+color%3A+rgb(4%2C+120%2C+249)%3B%22%3E%3C%2Fspan%3E%26nbsp%3BCheckout%26nbsp%3B&amp;currency_code=AUD\" aria-expanded=\"false\" style=\"display: inline !important;\"><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"petals.html\"><span class=\"socicon socicon-icq mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(250, 190, 0);\"></span>&nbsp;Petals</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(245, 187, 0);\"></span>Home &nbsp;</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#c1c1c1"
-            },
-            "SPAN": {
-              "color": "#faaf40",
-              "font-size": "20px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-ts",
+          "_name": "form1",
+          "_anchor": "form1-x1",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
+            "labelsColor": "#ffffff",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
-            "showMeta": true
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "title": "",
-          "meta": "<font color=\"#ffffff\"><b>Fill in the </b><b>contact form</b><span style=\"font-style: normal;\"> </span><b>and the delivery address for the flowers.</b></font><font color=\"#ffffff\"><b><br></b></font><font color=\"#ffffff\"><b>Click&nbsp;<span style=\"font-style: normal;\"> contact us</span>&nbsp; &nbsp;and then click on the<span style=\"font-style: normal;\">&nbsp; buy now&nbsp;</span> icon in the<span style=\"font-style: normal;\">&nbsp; zone box</span>&nbsp; </b></font><br><font color=\"#ffffff\"><b>&nbsp;which includes the &nbsp;&nbsp;<span style=\"font-style: normal;\">delivery post code</span></b> <span style=\"font-style: normal;\">area.</span></font><br><font color=\"#ffffff\"><b>To conclude the purchase details click on the &nbsp;&nbsp;</b><span style=\"font-style: normal;\">Shopping Trolley Icon</span></font>"
+          "title": "Sender",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "jefjaq@outlook.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": " Senders Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Senders Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Senders Phone No."
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -8112,7 +8145,7 @@
           "_anchor": "form1-sn",
           "_params": {
             "labelsColor": "#ffffff",
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -8125,7 +8158,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Checkout",
+          "title": "Receiver",
           "subtitle": "",
           "form": {
             "action": "jefjaq@outlook.com",
@@ -8140,8 +8173,8 @@
               },
               "email": {
                 "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
+                "visible": false,
+                "customTitle": "Delivery Date"
               },
               "phone": {
                 "title": "Phone",
@@ -8150,7 +8183,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Delivery Address"
+                "customTitle": "Delivery Date and Address"
               }
             }
           },

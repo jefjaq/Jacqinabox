@@ -2337,19 +2337,14 @@ h6,
 #menu-lu .btn {
   font-size: 16px;
 }
-#header3-ts .mbr-section-title,
-#header3-ts .mbr-section-subtitle {
-  text-align: center;
+#form1-x1 .form-control-label {
+  color: #ffffff;
 }
-#header3-ts SMALL {
-  color: #000000;
+#form1-x1 SMALL {
+  color: #ffffff;
 }
-#header3-ts B {
-  color: #c1c1c1;
-}
-#header3-ts SPAN {
-  color: #faaf40;
-  font-size: 20px;
+#form1-x1 .mbr-section-title {
+  color: #ffffff;
 }
 #form1-sn .form-control-label {
   color: #ffffff;

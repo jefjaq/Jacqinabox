@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1190,
+    "uniqCompNum": 1191,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8183,7 +8183,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Delivery Date and Address"
+                "customTitle": "Delivery Date and Address,  Delivery Time,  Message on Card"
               }
             }
           },
@@ -8269,7 +8269,7 @@
           "currency1": "$",
           "price1": "9.95",
           "period1": "",
-          "description1": "<b>5169<br>5170<br>5171<br>5172<br>5173<br>5174</b><br><b><br></b><br>",
+          "description1": "<b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5169</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5174</a></b><br><b><br></b><br>",
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "label2": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",

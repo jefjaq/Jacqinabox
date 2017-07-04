@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -4788,7 +4788,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cicle6-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cicle6-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8072,10 +8072,10 @@
               "color": "#000000"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             },
             "SPAN": {
-              "color": "#b4aebe",
+              "color": "#faaf40",
               "font-size": "20px"
             }
           },
@@ -8091,7 +8091,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<font color=\"#ffffff\"><b>Fill in the </b><b>contact form</b><span style=\"font-style: normal;\"> </span><b>and the delivery address for the flowers.</b></font><font color=\"#ffffff\"><b><br></b></font><font color=\"#ffffff\"><b>Click&nbsp;<span style=\"font-style: normal;\"> contact us</span>&nbsp; &nbsp;and then click on the<span style=\"font-style: normal;\">&nbsp; buy now&nbsp;</span> icon in the<span style=\"font-style: normal;\">&nbsp; zone box</span>&nbsp; </b></font><br><font color=\"#ffffff\"><b>&nbsp;which includes the &nbsp;&nbsp;<span style=\"font-style: normal;\">delivery post code</span></b> <span style=\"font-style: normal;\">area</span></font><br><font color=\"#ffffff\"><b> to conclude the purchase details.</b></font>"
+          "meta": "<font color=\"#ffffff\"><b>Fill in the </b><b>contact form</b><span style=\"font-style: normal;\"> </span><b>and the delivery address for the flowers.</b></font><font color=\"#ffffff\"><b><br></b></font><font color=\"#ffffff\"><b>Click&nbsp;<span style=\"font-style: normal;\"> contact us</span>&nbsp; &nbsp;and then click on the<span style=\"font-style: normal;\">&nbsp; buy now&nbsp;</span> icon in the<span style=\"font-style: normal;\">&nbsp; zone box</span>&nbsp; </b></font><br><font color=\"#ffffff\"><b>&nbsp;which includes the &nbsp;&nbsp;<span style=\"font-style: normal;\">delivery post code</span></b> <span style=\"font-style: normal;\">area.</span></font><br><font color=\"#ffffff\"><b>To conclude the purchase details click on the &nbsp;&nbsp;</b><span style=\"font-style: normal;\">Shopping Trolley Icon</span></font>"
         },
         {
           "_tags": [

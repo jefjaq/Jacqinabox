@@ -8068,9 +8068,23 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#faaf40"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#faaf40"
+            }
+          },
           "_anchor": "form1-x1",
           "_params": {
-            "labelsColor": "#ffffff",
+            "labelsColor": "#faaf40",
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -8113,21 +8127,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#faaf40"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -8136,7 +8136,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             "SMALL": {
               "color": "#000000"
@@ -8147,7 +8147,7 @@
           },
           "_anchor": "form1-sn",
           "_params": {
-            "labelsColor": "#ffffff",
+            "labelsColor": "#faaf40",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -8221,7 +8221,7 @@
             },
             ".mbr-plan-label": {
               "font-size": "24px",
-              "color": "#b8312f"
+              "color": "#faaf40"
             },
             "UL": {
               "color": "#000000"
@@ -8234,6 +8234,12 @@
             },
             ".mbr-price-value": {
               "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle SPAN": {
+              "color": "#faaf40"
             }
           },
           "_tags": [
@@ -8242,7 +8248,7 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-to",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -8257,7 +8263,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "firstType": "bg-primary",
             "showButtons": false,
             "secondType": "bg-primary",
@@ -8265,9 +8271,9 @@
             "fourthType": "hidden"
           },
           "title": "<br>Delivery Zones",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
-          "title1": "Zone 1<br>Postal Codes <br>Delivery Charge",
+          "subtitle": "Click on the <span style=\"font-style: normal;\"><b>Receivers post code</b></span> and then the <span style=\"font-style: normal;\"><b>shopping cart icon</b></span> to finalise payment through <span style=\"font-style: normal;\"><b>PayPal.</b></span><br><span style=\"font-style: normal;\"><b>You can also phone Jacq in a Box with your order and credit card details if you prefer that method.</b></span><br><span style=\"font-style: normal;\"><b>PHONE: 08 85576718</b></span>",
+          "label1": "Zone 0ne",
+          "title1": "Receiver<br>Postal Codes <br>Delivery Charge",
           "subtitle1": "",
           "currency1": "$",
           "price1": "9.95",
@@ -8275,8 +8281,8 @@
           "description1": "<b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5169</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5174</a></b><br><b><br></b><br>",
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
-          "label2": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
-          "title2": "Zone 2<br>Postal Codes<br>Delivery Charge",
+          "label2": "Zone One",
+          "title2": "Receiver<br>Postal Codes<br>Delivery Charge",
           "subtitle2": "",
           "currency2": "$",
           "price2": "18.50",
@@ -8284,8 +8290,8 @@
           "description2": "<b>5163<br>5164<br>5165<br>5166<br>5167<br>5168</b><br><b><br></b><b><br></b>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=USD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
-          "label3": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"text-success\">Buy Now</a>",
-          "title3": "Zone 3<br>Postal Codes<br>Delivery Charge",
+          "label3": "Zone One",
+          "title3": "Receiver<br>Postal Codes<br>Delivery Charge",
           "subtitle3": "",
           "currency3": "$",
           "price3": "24.95",

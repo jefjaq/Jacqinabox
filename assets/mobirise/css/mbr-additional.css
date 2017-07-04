@@ -2338,7 +2338,7 @@ h6,
   font-size: 16px;
 }
 #form1-x1 .form-control-label {
-  color: #ffffff;
+  color: #faaf40;
 }
 #form1-x1 SMALL {
   color: #ffffff;
@@ -2350,7 +2350,7 @@ h6,
   color: #faaf40;
 }
 #form1-sn .form-control-label {
-  color: #ffffff;
+  color: #faaf40;
 }
 #form1-sn SMALL {
   color: #000000;
@@ -2389,7 +2389,7 @@ h6,
 }
 #pricing-table2-to .mbr-plan-label {
   font-size: 24px;
-  color: #b8312f;
+  color: #faaf40;
 }
 #pricing-table2-to UL {
   color: #000000;
@@ -2402,4 +2402,10 @@ h6,
 }
 #pricing-table2-to .mbr-price-value {
   color: #ffffff;
+}
+#pricing-table2-to .mbr-section__container .mbr-section-subtitle {
+  color: #ffffff;
+}
+#pricing-table2-to .mbr-section__container .mbr-section-subtitle SPAN {
+  color: #faaf40;
 }

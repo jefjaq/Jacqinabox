@@ -8085,7 +8085,7 @@
             "showSubTitle": true
           },
           "title": "Sender",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Fill in the <b>Sender</b> and <b>Receiver Forms</b> then click the <b style=\"font-style: normal;\">Contact Us</b> on both forms.",
           "form": {
             "action": "jefjaq@outlook.com",
             "alerts": {
@@ -8123,6 +8123,9 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            "B": {
+              "color": "#faaf40"
             }
           }
         },
@@ -8145,7 +8148,7 @@
           "_anchor": "form1-sn",
           "_params": {
             "labelsColor": "#ffffff",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,

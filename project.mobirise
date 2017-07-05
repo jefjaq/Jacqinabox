@@ -1,15 +1,15 @@
 {
   "settings": {
-    "currentPage": "checkout.html",
+    "currentPage": "index.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#7500f9",
+        "primaryColor": "#116429",
         "secondaryColor": "#bfcecb",
         "successColor": "#fc0501",
-        "infoColor": "#f3c649",
+        "infoColor": "#fac51c",
         "warningColor": "#116429",
         "dangerColor": "#8040e9",
         "titleFont": "Montserrat",
@@ -67,13 +67,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -94,7 +94,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -104,7 +104,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -119,7 +119,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -475,7 +475,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -491,7 +491,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -507,7 +507,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -523,7 +523,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -539,7 +539,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -555,7 +555,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -630,7 +630,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -646,7 +646,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -662,7 +662,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -678,7 +678,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -694,7 +694,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -710,7 +710,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -753,8 +753,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -836,13 +836,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -863,7 +863,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -873,7 +873,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#90a878!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -888,7 +888,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1181,8 +1181,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         }
       ]
     },
@@ -1230,13 +1230,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -1257,7 +1257,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1267,7 +1267,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -1282,7 +1282,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1428,7 +1428,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -1444,7 +1444,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -1460,7 +1460,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -1476,7 +1476,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -1492,7 +1492,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -1508,7 +1508,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -1583,7 +1583,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -1599,7 +1599,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -1615,7 +1615,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -1631,7 +1631,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -1647,7 +1647,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -1663,7 +1663,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -1706,8 +1706,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1789,13 +1789,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -1816,7 +1816,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1826,7 +1826,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -1841,7 +1841,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -1984,7 +1984,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -2000,7 +2000,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -2016,7 +2016,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -2032,7 +2032,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -2048,7 +2048,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -2064,7 +2064,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -2139,7 +2139,7 @@
           "title1": "Jaimee<br>$35",
           "subtitle1": "<b>Bootstrap 4 has been noted</b>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
@@ -2155,7 +2155,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -2171,7 +2171,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -2187,7 +2187,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -2203,7 +2203,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -2219,7 +2219,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -2262,8 +2262,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -2345,13 +2345,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -2372,7 +2372,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2382,7 +2382,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -2397,7 +2397,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -2564,7 +2564,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -2580,7 +2580,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -2596,7 +2596,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -2628,7 +2628,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -2719,7 +2719,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -2735,7 +2735,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -2751,7 +2751,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -2783,7 +2783,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -2826,8 +2826,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -2909,13 +2909,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -2936,7 +2936,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2946,7 +2946,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -2961,7 +2961,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -3128,7 +3128,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -3160,7 +3160,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -3176,7 +3176,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -3192,7 +3192,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -3283,7 +3283,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -3299,7 +3299,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -3315,7 +3315,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -3347,7 +3347,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -3390,8 +3390,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -3473,13 +3473,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -3500,7 +3500,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -3510,7 +3510,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -3525,7 +3525,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -3669,7 +3669,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -3701,7 +3701,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -3717,7 +3717,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -3733,7 +3733,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_styles": {
@@ -3844,7 +3844,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -3860,7 +3860,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -3876,7 +3876,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -3892,7 +3892,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -3908,7 +3908,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -3951,8 +3951,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -4034,13 +4034,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -4061,7 +4061,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4071,7 +4071,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -4086,7 +4086,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -4253,7 +4253,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -4285,7 +4285,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -4317,7 +4317,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -4408,7 +4408,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -4440,7 +4440,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -4456,7 +4456,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -4472,7 +4472,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -4515,8 +4515,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -4598,13 +4598,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -4625,7 +4625,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -4635,7 +4635,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -4650,7 +4650,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -4817,7 +4817,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -4849,7 +4849,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -4881,7 +4881,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -4972,7 +4972,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -4988,7 +4988,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -5004,7 +5004,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -5020,7 +5020,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -5036,7 +5036,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -5079,8 +5079,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -5162,13 +5162,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -5189,7 +5189,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5199,7 +5199,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -5214,7 +5214,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -5378,7 +5378,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -5410,7 +5410,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -5426,7 +5426,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -5442,7 +5442,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -5533,7 +5533,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -5565,7 +5565,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -5581,7 +5581,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -5597,7 +5597,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -5640,8 +5640,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -5723,13 +5723,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -5750,7 +5750,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5760,7 +5760,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#90a878!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -5775,7 +5775,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -5880,7 +5880,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -5923,8 +5923,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -6006,13 +6006,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -6033,7 +6033,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -6043,7 +6043,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#90a878!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -6058,7 +6058,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -6146,6 +6146,50 @@
           },
           "title": "BACKGROUND VIDEO",
           "caption": "<p><b>Jacq in a box was started as a business in 2014 selling giftware we have progressed to</b>&nbsp;<b><span style=\"font-size: 1.07rem; line-height: 1.5;\">selling clothes, jewellery, handbags, balloons. In 2015 the florist next to us was put up for sale we bought it and now include flowers, Jacqueline who owns and runs the business is a florist the business was formerly called Poppies Plants and Flowers. We have incorperated it into Jacq in a Box. We invite you to come along and have a look at the giftware and the flowers. We think you will be delighted at the variety and quality of the products that we sell&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">We also welcome phone orders for Flowers. you can find them under Products in the menu bar.</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Under the Delivery Area icon you will find the postcodes that we deliver flowers to, it is usually within 30 kilometers of the business.</span></b></p><p><b>We can deliver interstate and globally through PETALS we have a page exclusively for arrangements through Petals.</b></p><p><b>Click the Petals icon on the menu bar</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#fac51c",
+              "text-align": "left",
+              "font-size": "12px"
+            },
+            "SPAN": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-kd",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Aldinga Central Shopping Mall ",
+              "placeId": "ChIJe21__Go8sWoREMS6RVU2Aw8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         }
       ]
     },
@@ -6193,13 +6237,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -6220,7 +6264,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -6230,7 +6274,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -6245,7 +6289,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -6409,7 +6453,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -6425,7 +6469,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -6441,7 +6485,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -6457,7 +6501,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -6473,7 +6517,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -6564,7 +6608,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -6596,7 +6640,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -6612,7 +6656,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -6628,7 +6672,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -6671,8 +6715,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -6751,13 +6795,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -6778,7 +6822,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -6788,7 +6832,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -6803,7 +6847,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -7118,7 +7162,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -7150,7 +7194,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -7166,7 +7210,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -7182,7 +7226,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -7273,7 +7317,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -7289,7 +7333,7 @@
           "title3": "Stephanie<br>$43.00",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Stephanie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle3-1-6.jpg",
@@ -7305,7 +7349,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -7321,7 +7365,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -7337,7 +7381,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -7380,8 +7424,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -7478,13 +7522,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -7505,7 +7549,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -7515,7 +7559,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#116429!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -7530,7 +7574,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -7656,7 +7700,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -7688,7 +7732,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -7704,7 +7748,7 @@
           "title5": "Jacquie<br>$28.00",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds,&nbsp;<br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Jacquie&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle5-1-6.jpg",
@@ -7720,7 +7764,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -7811,7 +7855,7 @@
           "title2": "Jessica<br>$25.00",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
@@ -7843,7 +7887,7 @@
           "title4": "Tracy<br>$25.00",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
@@ -7875,7 +7919,7 @@
           "title6": "Joanne<br>$43.00",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
           "_tags": [
@@ -7918,8 +7962,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Bvld<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\">Contact</a></b></li><br></ul>"
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -7979,13 +8023,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -8006,7 +8050,7 @@
               "background": "#8040e9"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -8016,7 +8060,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#7500f9!important"
+              "color": "#90a878!important"
             },
             ".btn": {
               "font-size": "16px"
@@ -8031,7 +8075,7 @@
             "bgColor": "#8040e9",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -8073,7 +8117,8 @@
               "color": "#faaf40"
             },
             "SMALL": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "22px"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
@@ -8123,11 +8168,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message on Card"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -8186,11 +8231,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Delivery Date and Address,  Delivery Time,  Message on Card"
+                "customTitle": "Delivery Date and Address,  Delivery Time,"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_inherit": "pricing-table1",
@@ -8208,12 +8253,12 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-price-desc B": {
-              "color": "#ffffff",
+              "color": "#faaf40",
               "font-size": "20px"
             },
             ".mbr-plan-title": {
               "font-size": "30px",
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-plan-price-desc": {
               "font-size": "20px",
@@ -8230,13 +8275,14 @@
               "color": "#ffffff"
             },
             ".mbr-price-figure": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-price-value": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "22px"
             },
             ".mbr-section__container .mbr-section-subtitle SPAN": {
               "color": "#faaf40"
@@ -8271,9 +8317,9 @@
             "fourthType": "hidden"
           },
           "title": "<br>Delivery Zones",
-          "subtitle": "Click on the <span style=\"font-style: normal;\"><b>Receivers post code</b></span> and then the <span style=\"font-style: normal;\"><b>shopping cart icon</b></span> to finalise payment through <span style=\"font-style: normal;\"><b>PayPal.</b></span><br><span style=\"font-style: normal;\"><b>You can also phone Jacq in a Box with your order and credit card details if you prefer that method.</b></span><br><span style=\"font-style: normal;\"><b>PHONE: 08 85576718</b></span>",
+          "subtitle": "Click on the <span style=\"font-style: normal;\"><b>Receivers post code</b></span> and then the <span style=\"font-style: normal;\"><b>shopping cart icon</b></span> to finalise payment through <span style=\"font-style: normal;\"><b>PayPal.</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><br><span style=\"font-style: normal;\"><b>You can also phone Jacq in a Box with your order and credit card details if you prefer that method.</b></span><br><span style=\"font-style: normal;\"><b>PHONE: 08 85576718</b></span>",
           "label1": "Zone 0ne",
-          "title1": "Receiver<br>Postal Codes <br>Delivery Charge",
+          "title1": "Receiver<br>Postal Code&nbsp;<br>Delivery Charge",
           "subtitle1": "",
           "currency1": "$",
           "price1": "9.95",
@@ -8282,7 +8328,7 @@
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "label2": "<p>Zone &nbsp;Two</p>",
-          "title2": "Receiver<br>Postal Codes<br>Delivery Charge",
+          "title2": "Receiver<br>Postal Code<br>Delivery Charge",
           "subtitle2": "",
           "currency2": "$",
           "price2": "18.50",
@@ -8291,7 +8337,7 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=18.50&amp;item_name=Delivery+Charge&amp;currency_code=USD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "label3": "Zone Three",
-          "title3": "Receiver<br>Postal Codes<br>Delivery Charge",
+          "title3": "Receiver<br>Postal Code<br>Delivery Charge",
           "subtitle3": "",
           "currency3": "$",
           "price3": "24.95",
@@ -8308,6 +8354,50 @@
           "description4": "More details",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#fac51c",
+              "text-align": "left",
+              "font-size": "12px"
+            },
+            "SPAN": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-kd",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Aldinga Central Shopping Mall ",
+              "placeId": "ChIJe21__Go8sWoREMS6RVU2Aw8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
         }
       ]
     }

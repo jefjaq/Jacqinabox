@@ -530,6 +530,9 @@ h6,
 #features1-wb .mbr-cards-col:nth-child(odd) .card-text {
   color: #ffffff;
 }
+#features1-wb .mbr-cards-col:nth-child(even) .card-title {
+  color: #000000;
+}
 #buttons1-wa .btn {
   font-size: 22px;
 }
@@ -542,7 +545,25 @@ h6,
 #features1-wc .mbr-cards-col:nth-child(odd) .card-text {
   color: #ffffff;
 }
+#features1-wc .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #buttons1-x3 .btn {
+  font-size: 22px;
+}
+#header3-yn .mbr-section-title,
+#header3-yn .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yn SMALL {
+  color: #000000;
+}
+#header3-yn B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yn SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-kd STRONG {
@@ -805,6 +826,21 @@ h6,
 #buttons1-x4 .btn {
   font-size: 22px;
 }
+#header3-yo .mbr-section-title,
+#header3-yo .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yo SMALL {
+  color: #000000;
+}
+#header3-yo B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yo SPAN {
+  color: #faaf40;
+  font-size: 22px;
+}
 #contacts2-9j STRONG {
   color: #fac51c;
   text-align: left;
@@ -941,6 +977,21 @@ h6,
   color: #ffffff;
 }
 #buttons1-y5 .btn {
+  font-size: 22px;
+}
+#header3-yp .mbr-section-title,
+#header3-yp .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yp SMALL {
+  color: #000000;
+}
+#header3-yp B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yp SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-9r STRONG {
@@ -1081,6 +1132,21 @@ h6,
 #buttons1-y7 .btn {
   font-size: 22px;
 }
+#header3-yq .mbr-section-title,
+#header3-yq .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yq SMALL {
+  color: #000000;
+}
+#header3-yq B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yq SPAN {
+  color: #faaf40;
+  font-size: 22px;
+}
 #contacts2-9z STRONG {
   color: #fac51c;
   text-align: left;
@@ -1217,6 +1283,21 @@ h6,
   color: #ffffff;
 }
 #buttons1-y9 .btn {
+  font-size: 22px;
+}
+#header3-yr .mbr-section-title,
+#header3-yr .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yr SMALL {
+  color: #000000;
+}
+#header3-yr B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yr SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-a7 STRONG {
@@ -1357,6 +1438,21 @@ h6,
 #buttons1-ya .btn {
   font-size: 22px;
 }
+#header3-ys .mbr-section-title,
+#header3-ys .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-ys SMALL {
+  color: #000000;
+}
+#header3-ys B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-ys SPAN {
+  color: #faaf40;
+  font-size: 22px;
+}
 #contacts2-dz STRONG {
   color: #fac51c;
   text-align: left;
@@ -1493,6 +1589,21 @@ h6,
   color: #ffffff;
 }
 #buttons1-yc .btn {
+  font-size: 22px;
+}
+#header3-yt .mbr-section-title,
+#header3-yt .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yt SMALL {
+  color: #000000;
+}
+#header3-yt B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yt SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-an STRONG {
@@ -1633,6 +1744,21 @@ h6,
 #buttons1-yg .btn {
   font-size: 22px;
 }
+#header3-yv .mbr-section-title,
+#header3-yv .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yv SMALL {
+  color: #000000;
+}
+#header3-yv B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yv SPAN {
+  color: #faaf40;
+  font-size: 22px;
+}
 #contacts2-dr STRONG {
   color: #fac51c;
   text-align: left;
@@ -1769,6 +1895,21 @@ h6,
   color: #ffffff;
 }
 #buttons1-ye .btn {
+  font-size: 22px;
+}
+#header3-yu .mbr-section-title,
+#header3-yu .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yu SMALL {
+  color: #000000;
+}
+#header3-yu B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yu SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-dj STRONG {
@@ -2105,6 +2246,21 @@ h6,
 #buttons1-ym .btn {
   font-size: 22px;
 }
+#header3-yx .mbr-section-title,
+#header3-yx .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yx SMALL {
+  color: #000000;
+}
+#header3-yx B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yx SPAN {
+  color: #faaf40;
+  font-size: 22px;
+}
 #contacts2-b3 STRONG {
   color: #fac51c;
   text-align: left;
@@ -2385,6 +2541,21 @@ h6,
   color: #ffffff;
 }
 #buttons1-yk .btn {
+  font-size: 22px;
+}
+#header3-yw .mbr-section-title,
+#header3-yw .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-yw SMALL {
+  color: #000000;
+}
+#header3-yw B {
+  color: #ffffff;
+  font-size: 22px;
+}
+#header3-yw SPAN {
+  color: #faaf40;
   font-size: 22px;
 }
 #contacts2-s5 STRONG {

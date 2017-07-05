@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "checkout.html",
+    "currentPage": "index.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1217,
+    "uniqCompNum": 1247,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -347,23 +347,27 @@
               "color": "#000000"
             },
             "B": {
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-tk",
+          "_anchor": "header3-xt",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#eee6f9",
+            "bgColor": "#116429",
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on add to cart for selections and then click on checkout to proceed to delivery address and checkout page</b>"
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
         },
         {
           "alias": "facebook-comments",
@@ -573,7 +577,7 @@
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(250, 197, 28);\"></span>Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -728,7 +732,7 @@
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(250, 197, 28);\"></span>Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -1345,6 +1349,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xu",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1497,7 +1532,7 @@
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -1652,7 +1687,7 @@
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -1901,6 +1936,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xv",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -2047,13 +2113,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-u6",
+          "_anchor": "buttons1-y4",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -2202,13 +2268,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-x5",
+          "_anchor": "buttons1-y5",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -2457,6 +2523,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xw",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -2603,13 +2700,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-u9",
+          "_anchor": "buttons1-y6",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -2758,13 +2855,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-x6",
+          "_anchor": "buttons1-y7",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -3013,6 +3110,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xx",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3159,13 +3287,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-uc",
+          "_anchor": "buttons1-y8",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -3314,13 +3442,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-x7",
+          "_anchor": "buttons1-y9",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -3569,6 +3697,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xs",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3721,7 +3880,7 @@
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\">Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -3870,13 +4029,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xp",
+          "_anchor": "buttons1-ya",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -3955,32 +4114,6 @@
             "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE!"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-xs",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b178f1",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "<b>Click on add to cart for selections and then click on checkout to proceed to delivery address and checkout page</b>"
         }
       ]
     },
@@ -4151,6 +4284,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xy",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4297,13 +4461,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-uo",
+          "_anchor": "buttons1-yb",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -4452,13 +4616,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xo",
+          "_anchor": "buttons1-yc",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -4707,6 +4871,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4853,13 +5048,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-ur",
+          "_anchor": "buttons1-yf",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -5008,13 +5203,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xm",
+          "_anchor": "buttons1-yg",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -5263,6 +5458,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-xz",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -5409,13 +5635,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-v1",
+          "_anchor": "buttons1-yd",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -5564,13 +5790,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xn",
+          "_anchor": "buttons1-ye",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -6318,6 +6544,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -6464,13 +6721,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-v8",
+          "_anchor": "buttons1-yl",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -6619,13 +6876,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xj",
+          "_anchor": "buttons1-ym",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -6872,6 +7129,37 @@
           },
           "title": "Giftware Gallery",
           "meta": "<b>Giftware not available online yet</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
         },
         {
           "alias": "wowslider",
@@ -7173,13 +7461,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-uu",
+          "_anchor": "buttons1-yh",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -7328,13 +7616,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xl",
+          "_anchor": "buttons1-yi",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -7583,6 +7871,37 @@
           "meta": "<br>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -7729,13 +8048,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-v4",
+          "_anchor": "buttons1-yj",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -7884,13 +8203,13 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "buttons1-xk",
+          "_anchor": "buttons1-yk",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#b178f1"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>Checkout</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [

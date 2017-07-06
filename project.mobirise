@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -8955,7 +8955,7 @@
           },
           "title": "<br>Delivery Zones",
           "subtitle": "Click on the <span style=\"font-style: normal;\"><b>Receivers post code</b></span> and then the <span style=\"font-style: normal;\"><b>shopping cart icon</b></span> to finalise payment through <span style=\"font-style: normal;\"><b>PayPal.</b></span><br><span style=\"font-style: normal;\"><b><br></b></span><br><span style=\"font-style: normal;\"><b>You can also phone Jacq in a Box with your order and credit card details if you prefer that method.</b></span><br><span style=\"font-style: normal;\"><b>PHONE: 08 85576718</b></span>",
-          "label1": "Zone 1",
+          "label1": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">Zone 1</a>",
           "title1": "Receiver<br>Postal Code&nbsp;<br>Delivery Charge",
           "subtitle1": "",
           "currency1": "$",

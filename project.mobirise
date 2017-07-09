@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "checkout.html",
+    "currentPage": "sympathy.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1258,
+    "uniqCompNum": 1268,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -286,6 +286,37 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#116429",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -310,7 +341,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -337,37 +368,6 @@
           "title": "Weekly Special",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Jaimee<br></span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">$35.00</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px; color: rgb(250, 197, 28);\"></span>Add to Cart</a>   "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#ffffff",
-              "font-size": "22px"
-            },
-            "SPAN": {
-              "color": "#faaf40",
-              "font-size": "22px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-xt",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#116429",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
         },
         {
           "alias": "facebook-comments",
@@ -465,11 +465,11 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cicle6-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -485,7 +485,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Jaimee&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(253, 193, 0);\"></span>Add to Cart</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle1-1-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17-layer-copy.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -501,14 +501,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle2-1-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcut5-3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title3": "Stephanie<br>$79.90",
@@ -533,7 +533,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Tracy&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 194, 0);\"></span>Add to Cart</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/circle4-1-6.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcut5.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -563,24 +563,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "An elegant display of oriental lilies,pompon chrysanthemums, roses and lissianthus displayed in matching box and ribbon. Any person would be thrilled to receive this arrangement.<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-wa",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(250, 197, 28);\"></span>Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -623,11 +605,11 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cicle6-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/f1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -723,24 +705,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-x3",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(250, 197, 28);\"></span>Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -800,7 +764,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -813,7 +777,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1202,7 +1166,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1215,7 +1179,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         }
       ]
     },
@@ -1406,7 +1370,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xu",
+          "_anchor": "header3-z6",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1414,7 +1378,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1454,7 +1418,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -1552,24 +1516,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-wf",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -1609,7 +1555,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -1707,24 +1653,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-x4",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_styles": {
@@ -1786,7 +1714,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1799,7 +1727,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -2024,7 +1952,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xv",
+          "_anchor": "header3-z5",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2032,7 +1960,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -2072,7 +2000,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -2170,24 +2098,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y4",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -2227,7 +2137,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -2325,24 +2235,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y5",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_styles": {
@@ -2404,7 +2296,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2417,7 +2309,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -2642,7 +2534,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xw",
+          "_anchor": "header3-z4",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2650,7 +2542,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -2690,7 +2582,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -2788,24 +2680,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y6",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -2845,7 +2719,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -2943,24 +2817,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y7",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_styles": {
@@ -3022,7 +2878,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3035,7 +2891,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -3260,7 +3116,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xx",
+          "_anchor": "header3-z3",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -3268,7 +3124,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -3308,7 +3164,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -3411,24 +3267,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y8",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -3463,7 +3301,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -3563,24 +3401,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-y9",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -3640,7 +3460,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3653,7 +3473,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -3878,7 +3698,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xs",
+          "_anchor": "header3-z2",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -3886,7 +3706,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -3926,7 +3746,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -4029,24 +3849,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-ul",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\">Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -4081,7 +3883,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -4181,24 +3983,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-ya",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -4258,7 +4042,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4271,7 +4055,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -4496,7 +4280,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xy",
+          "_anchor": "header3-z1",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -4504,7 +4288,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -4544,7 +4328,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -4647,24 +4431,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yb",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -4699,7 +4465,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -4799,24 +4565,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yc",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -4876,7 +4624,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -4889,7 +4637,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -5114,7 +4862,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-y0",
+          "_anchor": "header3-yz",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -5122,7 +4870,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -5162,7 +4910,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -5265,24 +5013,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yf",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -5317,7 +5047,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -5417,24 +5147,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yg",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -5494,7 +5206,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5507,7 +5219,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -5732,7 +5444,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-xz",
+          "_anchor": "header3-z0",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -5740,7 +5452,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -5780,7 +5492,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -5878,24 +5590,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yd",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_tags": [
@@ -5935,7 +5629,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -6033,24 +5727,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself kk<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-ye",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
         },
         {
           "_styles": {
@@ -6112,7 +5788,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -6125,7 +5801,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -6380,7 +6056,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -6393,7 +6069,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -6645,7 +6321,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -6658,7 +6334,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         }
       ]
     },
@@ -6857,7 +6533,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It is usually same day delivery if order is received before 3:00 pm&nbsp;</b></font>&nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -6897,7 +6573,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -7000,24 +6676,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yl",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -7052,7 +6710,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -7152,24 +6810,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-ym",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -7229,7 +6869,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -7242,7 +6882,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -7969,7 +7609,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -7982,7 +7622,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -8207,7 +7847,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-y2",
+          "_anchor": "header3-yy",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -8215,7 +7855,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "<b>Click on <span style=\"font-style: normal;\">add to cart</span></b><b>&nbsp;for selections and then click on <span style=\"font-style: normal;\">finalise purchase</span> to proceed to delivery address and checkout page</b>"
+          "meta": "<b>We can deliver locally and interstate through Petals.</b><p><font color=\"#ffffff\"><b><br></b></font></p><p><font color=\"#ffffff\"><b>To order Phone: 08 8557 6718. It might be same day delivery if order is received before 10:00 pm.</b></font>&nbsp;</p><p>&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -8255,7 +7895,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -8358,24 +7998,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yj",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -8410,7 +8032,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -8510,24 +8132,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=43&amp;item_name=Joanne&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(249, 189, 0);\"></span>Add to Cart</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "buttons1-yk",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#b178f1"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"checkout.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-full mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px; color: rgb(252, 192, 2);\"></span>&nbsp;Finalise Purchase</a>   "
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -8587,7 +8191,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -8600,7 +8204,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         },
         {
           "_inherit": "social-buttons1",
@@ -9021,7 +8625,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#8040e9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -9034,7 +8638,7 @@
             }
           },
           "text1": "Contact:<br>Jacq in a Box<br><br><strong><br></strong><span style=\"font-size: 0.875rem; line-height: 1.5;\">Shop 52 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Central Shopping Mall</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">1 Pridham Blvd<br></span><span style=\"font-size: 0.875rem; line-height: 1.5;\">Aldinga Beach<br></span>S.A. 5173<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Em</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">ail: jacq@jacqinabox.com.au</span><br>\nPhone: 08 8557 6718<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-danger\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-danger\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-danger\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-danger\">Contact</a></b></li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\">Links:</p><ul><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"index.html\" class=\"text-white\">Home</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"delivery Area.html\" class=\"text-white\">Delivery Areas</a></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"about us.html\" class=\"text-white\">About us&nbsp;</a></b></b></li><li><b style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"contact.html\" class=\"text-white\">Contact</a></b></li><br></ul>"
         }
       ]
     }

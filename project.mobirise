@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "checkout.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -31,13 +31,13 @@
     "google-analytics": "",
     "mcShopcart": {
       "email": "jefjaq@outlook.com",
-      "iconSize": "87",
+      "iconSize": "20",
       "iconColor": "#fac51c",
       "backColor": "#6307f5",
-      "topOffset": "95",
+      "topOffset": "91",
       "rightOffset": "0",
       "siteWidth": "1150",
-      "counterSize": "20",
+      "counterSize": "19",
       "counterColor": "#FFFFFF",
       "counterBack": "#F97352",
       "checkoutButton": "Add to Cart"
@@ -465,7 +465,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -501,7 +501,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Jessica&amp;currency_code=AUD\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(252, 192, 0);\"></span>Add to Cart</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fcut5-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/circle2-1.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8565,7 +8565,7 @@
           "currency1": "$",
           "price1": "9.95",
           "period1": "",
-          "description1": "<b><span style=\"font-style: normal;\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5169</a></span><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charges&amp;currency_code=AUD\">5174</a></b><br><b><br></b><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\"><br></a></b><b><br></b><br>",
+          "description1": "<b><span style=\"font-style: normal;\">5169</span><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charges&amp;currency_code=AUD\">5174</a></b><br><b><br></b><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\"><br></a></b><b><br></b><br>",
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "label2": "<p>Zone &nbsp;2</p>",

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "checkout.html",
+    "currentPage": "index.html",
     "name": "jacqinabox",
     "theme": {
       "name": "mobirise3",
@@ -8565,7 +8565,7 @@
           "currency1": "$",
           "price1": "9.95",
           "period1": "",
-          "description1": "<b><span style=\"font-style: normal;\">5169</span><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charges&amp;currency_code=AUD\">5174</a></b><br><b><br></b><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\"><br></a></b><b><br></b><br>",
+          "description1": "<b><span style=\"font-style: normal;\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=5169&amp;currency_code=AUD\">5169</a></span><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5170</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5171</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5172</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\">5173</a><br><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charges&amp;currency_code=AUD\">5174</a></b><br><b><br></b><b><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\"><br></a></b><b><br></b><br>",
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9.95&amp;item_name=Delivery+Charge&amp;currency_code=AUD\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
           "label2": "<p>Zone &nbsp;2</p>",
